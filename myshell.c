@@ -334,7 +334,7 @@ CHECK_AGAIN:
               if (args[2] == NULL)
                 listSong();
               else
-                printf("Please give a valid command to list all the muzik");
+                printf("Please give a valid command to list all the music details");
 
             } else {
 
